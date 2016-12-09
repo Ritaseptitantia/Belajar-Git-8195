@@ -1,4 +1,5 @@
  <?php
+//by ritaseptitantia
  require_once('lib/DBCLASS.php');
  require_once('lib/m_siswa.php');
  
