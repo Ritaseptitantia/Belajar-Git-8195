@@ -1,4 +1,6 @@
  <?php
+ // update 9 Dec 09.44
+ // by ritaseptitantia
  require_once('lib/DBClass.php');
  require_once('lib/m_siswa.php');
  require_once('lib/m_nationality.php');
