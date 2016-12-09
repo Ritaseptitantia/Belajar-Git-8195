@@ -1,5 +1,6 @@
  <?php
- //update di github
+<<<<<<< HEAD
+ //fix komentar setelah merge
 //*****************
  require_once('lib/DBClass.php');
  require_once('lib/m_siswa.php');
